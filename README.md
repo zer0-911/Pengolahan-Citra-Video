@@ -2,4 +2,4 @@
 
 # Tugas
 
-- Membuat program yang dapat mengganti background pada video [x]
+- [x] Membuat program yang dapat mengganti background pada video 
